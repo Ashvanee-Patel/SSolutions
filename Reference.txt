@@ -1,0 +1,22 @@
+﻿For Button Beautiful:
+	https://angrytools.com/android/button/
+
+For E-mail validation:
+	https://stackoverflow.com/questions/1819142/how-should-i-validate-an-e-mail-address
+
+
+For data transfer One activity to another Activity:
+	https://stackoverflow.com/questions/20169993/how-to-transfer-data-from-one-activity-to-another-in-android
+
+For GPS Lattitude and Longitude:
+	https://youtube.com
+
+For PIN code  from Lattitude and Longitude:
+	https://stackoverflow.com/questions/37582766/in-android-how-can-i-get-the-users-zip-code-using-latitude-and-longitude
+
+For ListView:
+	https://www.tutorialspoint.com/android/android_list_view.htm
+
+
+For GPS Run Time Permission :
+	https://www.youtube.com/watch?v=SMrB97JuIoM
